@@ -1,0 +1,20 @@
+# GlitchFontChanger
+#### A chrome extension that adds two additional buttons on the glitch.com editor to give the ability to the user to change fonts.
+![GLitch.com showcase](https://i.imgur.com/tstN5yt.png)
+
+### How to use 
+* Clone or download this repo
+* go to **[chrome://extensions](chrome://extensions)**
+* enable *developer mode*
+* Click on load unpacked
+* select the whole folder
+
+### Disclaimer
+Assets used in this project contain the glitch logo **which I do not own**, if this is a problem you can request a removal and I'll remove it *ASAP*.
+
+### Contribution
+Coded with ❤ by AlexSimpler.
+
+### Copyright
+Copyright 2020, All rights reserved AlexSimpler.
+
